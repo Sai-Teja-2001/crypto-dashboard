@@ -4,7 +4,8 @@ Hello All, This is a Crypto currency dashboard project which shows price charts,
 
 ## DEMO LINK
 
-It is deployed using 
+It is deployed using https://vercel.com/sai-teja-2001s-projects/crypto-dashboard/B3QWDzwYsgSZ6488RnHH7QUBBfyW
+
 
 In the project directory, you can run:
 
